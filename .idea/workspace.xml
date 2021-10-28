@@ -2,11 +2,478 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30b2606-2fbb-401d-88c9-176a5a5028cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/Re_inDT2021.10.23.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/Re_inDT2021.10.23.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/Table_Fdata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/stcoks_note2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/Re_inDT.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/Re_inDT2021.10.23.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/out_fromDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/out_fromDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/板块信息比对/Re_True_indusryDT.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.500只个股财务/板块信息比对/Re_True_indusryDT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1024.py.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1024.py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)/make_vba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. 设置计划任务 5minites/crontab_note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5. 设置计划任务 5minites/crontab_note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1803.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1824.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1860.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1861.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1881.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1893.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1925.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1928.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1942.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1951.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1959.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1963.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1973.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/2146.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2433.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2587.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2651.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2670.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2702.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2782.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2784.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2815.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2871.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2914.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3288.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/3288.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3563.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3626.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3635.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3765.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3769.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3861.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3880.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3932.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3941.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4519.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4519.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4523.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4527.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4552.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4553.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4568.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4578.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4587.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4587.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4686.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4689.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4704.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4751.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4755.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4812.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4901.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4902.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4921.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4922.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4927.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4967.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5301.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5301.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5401.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5401.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5406.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5406.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5411.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5411.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5541.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5541.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5631.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5703.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5706.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5707.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5707.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5711.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5803.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5929.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6035.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6035.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6098.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6098.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6302.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6448.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6471.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6544.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6594.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6670.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6674.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6702.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6703.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6724.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6752.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6752.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6754.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6758.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6758.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6762.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6762.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6770.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6841.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6841.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6845.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6856.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6861.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6869.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6902.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6923.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6954.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6965.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6971.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6976.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6981.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/7004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7550.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7564.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7575.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7649.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7729.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7731.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7735.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7741.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7747.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7751.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7752.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7846.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7912.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7951.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7956.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7974.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7988.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/7988.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8425.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8570.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8572.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8585.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8591.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8591.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8593.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8595.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8601.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8604.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8628.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8630.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8725.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8750.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8795.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8804.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8850.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8905.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8919.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9432.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9432.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9433.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9435.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9502.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9506.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9508.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9517.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9531.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9532.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9627.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9684.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9684.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9735.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9744.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9766.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9787.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9843.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9983.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9984.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9989.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/js_S_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/js_S_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.从服务器数据库导出数据/output_js225_400_2021_1024.py.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.从服务器数据库导出数据/output_js225_400_2021_1024.py.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +483,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ztJXnP6nbUC3me1jPMfv2Txf2j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,8 +504,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.following_js225_400">
-    <configuration name="Re_True_indusryDT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.out_fromDB">
+    <configuration name="Daily_matsui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,11 +513,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.500只个股财务/板块信息比对" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="D:/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.500只个股财务/板块信息比对/Re_True_indusryDT.py" />
+      <option name="SCRIPT_NAME" value="D:/Downloads/Daily_matsui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,11 +534,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.500只个股财务" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.500只个股财务/四季报" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.500只个股财务/Table_Fdata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.500只个股财务/四季报/Table_Fdata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +547,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="following_js225_400" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="VBA_2021_1024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="js_leverage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)/VBA_2021_1024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="following_js225_400_2021_1024.py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,28 +580,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="js_S_pool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="js_leverage" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7. 500只股票池" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7. 500只股票池/js_S_pool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1024.py.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +612,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.following_js225_400" />
         <item itemvalue="Python.out_fromDB" />
-        <item itemvalue="Python.Re_True_indusryDT" />
-        <item itemvalue="Python.js_S_pool" />
         <item itemvalue="Python.Table_Fdata" />
+        <item itemvalue="Python.Daily_matsui" />
+        <item itemvalue="Python.VBA_2021_1024" />
+        <item itemvalue="Python.following_js225_400_2021_1024.py" />
       </list>
     </recent_temporary>
   </component>
@@ -166,5 +641,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Downloads/Daily_matsui.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.500只个股财务/四季报/Table_Fdata.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

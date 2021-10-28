@@ -62,14 +62,20 @@ if __name__ == "__main__":
     cursor.execute(count_sql2)
     long_count2 = cursor.fetchone()['count(*)']
     for page2 in range(1, long_count2 + 1):
-        SQL_search2 = 'select name,d2018,d2017,d2016,industry  from js_FinData  where id = %s  ' % page2
+        SQL_search2 = 'select d2021, d2020, d2019, d2018, d2017, industry,coding,title,market_value,returns_ratio,min_callshares from nihonNEWS_js_FinData  where id = %s  ' % page2
         cursor.execute(SQL_search2)
         # #获取所有记录列表
         data2 = cursor.fetchone()
-        q2_name = data2["name"]
+        q2_d2021 = data2["d2021"]
+        q2_d2020 = data2["d2020"]
+        q2_d2019 = data2["d2019"]
         q2_d2018 = data2["d2018"]
         q2_d2017 = data2["d2017"]
-        q2_d2016 = data2["d2016"]
+        q2_coding = data2["coding"]
+        q2_title = data2["title"]
+        q2_market_value = data2["market_value"]
+        q2_returns_ratio = data2["returns_ratio"]
+        q2_min_callshares = data2["min_callshares"]
         q2_industry = data2["industry"]
 
         q2_list.append((q2_name, q2_d2018, q2_d2017, q2_d2016, q2_industry))

@@ -92,6 +92,7 @@ class JSPool_M(object):
             '//*[@id="layout"]/div[2]/div[3]/div[2]/div/div[1]/div/div/div[1]/div[2]/div/div[2]/div/text()')
         f_price = RemoveDot(remove_block(now_price))
         big_list.append(float(f_price[0]))
+        print(f_price[0])
         return big_list
 
 
@@ -237,14 +238,19 @@ if __name__ == "__main__":
     index225_ = (big_list[0] - _2021_10_23[0]) / _2021_10_23[0]
     index400_ = (big_list[1] - _2021_10_23[1]) / _2021_10_23[1]
 
-    f_compare_content.append(str(index225_))
-    f_compare_content.append(str(index400_))
+    f_compare_content.append(str(round(index225_,5)))
+    f_compare_content.append(str(round(index400_,5)))
 
-    for i1,i2 in zip(_2021_10_23[2:],big_list[2:]):
-        if (i1-i2)/i2-0.05 > max(index225_,index400_):
-            f_compare_content.append(" ")
+    for i1,i2 in zip(big_list[2:],_2021_10_23[2:]):
+        if (((i1-i2)/i2)-0.03) > max(float(f_compare_content[0]),float(f_compare_content[1])):
+            print((i1-float(i2))/float(i2)-0.05)
+            print(max(index225_,index400_))
+
+            f_compare_content.append(round(((i1-i2)/i2),5))
         else:
-            f_compare_content.append(("{0}".format((i1-i2)/i2)))
+            print(round(((i1-float(i2))/float(i2))))
+            f_compare_content.append("null")
+
 
     f_tup = tuple(f_compare_content)
     print(f_tup)
