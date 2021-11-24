@@ -5,3 +5,11 @@
 */12  8-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1024.py
 */17  9-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1024.py
 */22  10-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1024.py
+
+
+2021.11.16
+
+
+*/12  8-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1116.py
+*/17  9-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1116.py
+*/22  10-14 * * 1-5   /usr/bin/python3   /root/following_js225_400_2021_1116.py
