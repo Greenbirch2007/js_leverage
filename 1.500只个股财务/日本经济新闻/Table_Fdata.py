@@ -15,11 +15,12 @@ from selenium import webdriver
 def get_first_page(url):
     ch_options = webdriver.ChromeOptions()
     # 为Chrome配置无头模式
-    ch_options.add_argument("--headless")
-    ch_options.add_argument('--no-sandbox')
-    ch_options.add_argument('--disable-gpu')
-    ch_options.add_argument('--disable-dev-shm-usage')
+    # ch_options.add_argument("--headless")
+    # ch_options.add_argument('--no-sandbox')
+    # ch_options.add_argument('--disable-gpu')
+    # ch_options.add_argument('--disable-dev-shm-usage')
     # 在启动浏览器时加入配置
+    # driver = webdriver.Chrome(options=ch_options)
     driver = webdriver.Chrome(options=ch_options)
 
     driver.get(url)
@@ -115,7 +116,7 @@ if __name__ == '__main__':
         print(url)
 
         html = get_first_page(url)
-        time.sleep(3)
+        # time.sleep(3)
         content = parse_stock_note(html)
         print(content)
         for item in content:

@@ -3,36 +3,74 @@
   <component name="ChangeListManager">
     <list default="true" id="e30b2606-2fbb-401d-88c9-176a5a5028cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.500只个股财务/四季报/Table_Fdata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.500只个股财务/四季报/stcoks_note2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)/VBA_2021_1024.bas" beforeDir="false" afterPath="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)/VBA_2021_1024.bas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/2146.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4506.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4519.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4519.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4587.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4587.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5401.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5406.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5411.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5541.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5707.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6098.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6098.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6752.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6758.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6758.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6762.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6762.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6841.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7988.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8591.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9432.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9684.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/nihonNEWS_js_FinData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/nihonNEWS_js_FinData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/从数据库导出/nihonNEWS_js_FinData2021.10.28.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.500只个股财务/日本经济新闻/Table_Fdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.500只个股财务/日本经济新闻/Table_Fdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1820.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/1820.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/1821.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/1821.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2267.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/2267.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/2503.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3626.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/3626.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3765.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/3769.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4507.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4507.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4543.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4543.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4684.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4684.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4751.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4755.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4768.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/4768.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/4921.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5214.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5214.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5631.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/5631.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/5802.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6273.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6273.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6326.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6326.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6361.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6361.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6471.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6504.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6504.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6674.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6674.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6727.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6727.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6728.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6728.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6753.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6845.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6845.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6869.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6869.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6902.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6902.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/6976.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/6976.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7259.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/7259.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7701.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/7701.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7741.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/7947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8031.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8031.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8035.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8035.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8058.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8058.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8113.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8303.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8473.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8473.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/8919.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/8919.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9086.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9086.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/9506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9613.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/9627.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/7. 500只股票池/js_S_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/js_S_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. 500只股票池/股票池整理.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/7. 500只股票池/股票池整理.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +98,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BS02_1/2021.11_/文件目录树转json集合" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.filePDF_intoimage">
+  <component name="RunManager" selected="Python.getIndexDT">
     <configuration name="Daily_matsui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,27 +143,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VBA_2021_1024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="js_leverage" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.对应上图做可视化vba(超过列255列放弃)/VBA_2021_1024.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="filePDF_intoimage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +156,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../新建文件夹/filePDF_intoimage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getIndexDT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="js_leverage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 制作跟踪模型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 制作跟踪模型/getIndexDT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getIndexDT" />
         <item itemvalue="Python.filePDF_intoimage" />
         <item itemvalue="Python.out_fromDB" />
         <item itemvalue="Python.Table_Fdata" />
         <item itemvalue="Python.Daily_matsui" />
-        <item itemvalue="Python.VBA_2021_1024" />
       </list>
     </recent_temporary>
   </component>
