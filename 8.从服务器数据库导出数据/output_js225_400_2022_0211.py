@@ -18,7 +18,7 @@ import pandas as pd
 
 def savedt():
     engine_jsMons = create_engine('mysql+pymysql://root:123456@localhost:3306/JS')
-    sql_sp_LJ = 'select {} from js225_400_leverage_2022_0122  ; '
+    sql_sp_LJ = 'select {} from js225_400_leverage_2022_0211  ; '
     # df_js225 = pd.read_sql_query(sql_sp_LJ, engine_jsMons)
     # 1.近50条数据里面，超过非空10条就可以！[-3:] 30
     # 2 . 零计数 df_js225["J225"].tolist().count(0)
@@ -75,9 +75,9 @@ def savedt():
         else:
             pass
     get_code.append("LastTime")
-    sql_sp_f = 'select {0} from js225_400_leverage_2022_0122  ; '
+    sql_sp_f = 'select {0} from js225_400_leverage_2022_0211  ; '
     df_js_f = pd.read_sql_query(sql_sp_f.format(",".join(get_code)), engine_jsMons)
-    df_js_f.to_excel("js225_400_leverage_2022_0122.xlsx")
+    df_js_f.to_excel("js225_400_leverage_2022_0211.xlsx")
 
 
 

@@ -8,8 +8,9 @@ import pymysql
 
 from lxml import etree
 from selenium import webdriver
-import requests
+from bs4 import BeautifulSoup
 
+import requests
 
 
 
@@ -22,28 +23,22 @@ def get_first_page(url):
     # ch_options.add_argument('--disable-dev-shm-usage')
     # 在启动浏览器时加入配置
     # driver = webdriver.Chrome(options=ch_options)
-    driver = webdriver.Chrome(options=ch_options)
-
-    driver.get(url)
-    html = driver.page_source
-    driver.quit()
-
+    respnse = requests.get(url)
+    html = respnse.text
     return html
 
 # 可以尝试第二种解析方式，更加容易做计算
 def parse_stock_note(html):
-
-    patt = re.compile('<td class="a-taR a-wordBreakAll">(.*?)</td>',
-        re.S)
-    items = re.findall(patt,html)
-    _2017_2021_ = items[15:20]
-    f_l=[]
-    for item in _2017_2021_:
-        f_l.append("".join(item.split(",")))
-
-    return f_l
+    soup = BeautifulSoup(html, 'html.parser')
+    print(soup.find_all("th"))
 
 
+    time.sleep(6)
+
+# //*[@id="stock_holder"]/table[1]/tbody/tr/th/text()
+# //*[@id="stock_holder"]/table[1]/tbody/tr/th/*/text()
+
+# //th/text()
 
 
 
@@ -117,45 +112,45 @@ if __name__ == '__main__':
 
     for num_coding in js225_400_codes:
         big_list = []
-        url = 'https://www.nikkei.com/nkd/company/kessan/?scode={0}&ba=1'.format(num_coding)
+        url = 'https://kabutan.jp/stock/holder?code={0}'.format(num_coding)
         print(url)
 
         html = get_first_page(url)
         # time.sleep(3)
         content = parse_stock_note(html)
         print(content)
-        for item in content:
-            big_list.append(item)
-        # 加入查询板块的操作
-        sql = 'select * from js_infos_finanData where coding = %s ' % num_coding
-        # #执行sql语句
-        cur.execute(sql)
-        # #获取所有记录列表
-        data = cur.fetchone()
-        try:
+        # for item in content:
+        #     big_list.append(item)
+        # # 加入查询板块的操作
+        # sql = 'select * from js_infos_finanData where coding = %s ' % num_coding
+        # # #执行sql语句
+        # cur.execute(sql)
+        # # #获取所有记录列表
+        # data = cur.fetchone()
+        # try:
+        #
+        #     data_industry = data['industry']
+        #     big_list.append(data_industry)
+        #     data_coding = data['coding']
+        #     big_list.append(data_coding)
+        #     data_title = data['title']
+        #     big_list.append(data_title)
+        #     data_market_value = data['market_value']
+        #     big_list.append(data_market_value)
+        #     data_returns_ratio = data['returns_ratio']
+        #     big_list.append(data_returns_ratio)
+        #     data_min_callshares = data['min_callshares']
+        #     big_list.append(data_min_callshares)
+        #     big_list_tuple = tuple(big_list)
+        #     finanl_content = []
+        #     finanl_content.append(big_list_tuple)  # 是要带着元括号操作，
+        #     print(big_list_tuple)
+        #     insertDB(finanl_content)
+        #     print(datetime.datetime.now())
+        # except:
+        #     pass
 
-            data_industry = data['industry']
-            big_list.append(data_industry)
-            data_coding = data['coding']
-            big_list.append(data_coding)
-            data_title = data['title']
-            big_list.append(data_title)
-            data_market_value = data['market_value']
-            big_list.append(data_market_value)
-            data_returns_ratio = data['returns_ratio']
-            big_list.append(data_returns_ratio)
-            data_min_callshares = data['min_callshares']
-            big_list.append(data_min_callshares)
-            big_list_tuple = tuple(big_list)
-            finanl_content = []
-            finanl_content.append(big_list_tuple)  # 是要带着元括号操作，
-            print(big_list_tuple)
-            insertDB(finanl_content)
-            print(datetime.datetime.now())
-        except:
-            pass
-
-
+# <th scope="row" class="">(.*?)</th>
 
 # 因为板块数据是最后嵌套进去的，所以要保持，１．数据库表结构，２．解析整理后的数据结构　３．　插入的字段结构　三者之间都要保持一致
 # create table nihonNEWS_js_FinData(
@@ -174,5 +169,8 @@ if __name__ == '__main__':
 # ) engine=InnoDB  charset=utf8;
 
 #  drop table nihonNEWS_js_FinData;
+
+
+#
 
 
