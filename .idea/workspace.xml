@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30b2606-2fbb-401d-88c9-176a5a5028cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/js_leverage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js_leverage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. 集合本地数据库数据展示跟踪股票的详细信息/demo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/10. 集合本地数据库数据展示跟踪股票的详细信息/demo.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. 集合本地数据库数据展示跟踪股票的详细信息/followed_detail.csv" beforeDir="false" afterPath="$PROJECT_DIR$/10. 集合本地数据库数据展示跟踪股票的详细信息/followed_detail.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS_options" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.followed_js_details">
+  <component name="RunManager" selected="Python.getIndexDT">
     <configuration name="Table_Fdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.followed_js_details" />
         <item itemvalue="Python.getIndexDT" />
+        <item itemvalue="Python.followed_js_details" />
         <item itemvalue="Python.filePDF_intoimage" />
         <item itemvalue="Python.out_fromDB" />
         <item itemvalue="Python.Table_Fdata" />
