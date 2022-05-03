@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30b2606-2fbb-401d-88c9-176a5a5028cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/js_leverage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js_leverage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/2. 制作跟踪模型.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/HTMLTestReportEN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1024.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1116.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2021_1228.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2022_0122.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2022_0211.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/following_js225_400_2022_0321.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 制作跟踪模型/getIndexDT.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,41 +41,23 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ztJXnP6nbUC3me1jPMfv2Txf2j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunManager" selected="Python.getIndexDT">
-    <configuration name="Table_Fdata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="js_leverage" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.500只个股财务/四季报" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.500只个股财务/四季报/Table_Fdata.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/js_leverage&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.following_js225_400_allTime">
     <configuration name="filePDF_intoimage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,6 +100,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="following_js225_400_allTime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="js_leverage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 制作跟踪模型(改良每月只需要建表和改参即可)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 制作跟踪模型(改良每月只需要建表和改参即可)/following_js225_400_allTime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getIndexDT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="js_leverage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 制作跟踪模型(改良每月只需要建表和改参即可)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 制作跟踪模型(改良每月只需要建表和改参即可)/getIndexDT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="getIndexDT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="js_leverage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,34 +163,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="out_fromDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="js_leverage" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.500只个股财务/从数据库导出" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.500只个股财务/从数据库导出/out_fromDB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.following_js225_400_allTime" />
+        <item itemvalue="Python.getIndexDT (1)" />
         <item itemvalue="Python.getIndexDT" />
         <item itemvalue="Python.followed_js_details" />
         <item itemvalue="Python.filePDF_intoimage" />
-        <item itemvalue="Python.out_fromDB" />
-        <item itemvalue="Python.Table_Fdata" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +194,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
